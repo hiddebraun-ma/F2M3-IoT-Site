@@ -5,7 +5,7 @@ email: h.braun@ma-web.nl
 github_username:  hiddebraun-ma
 
 # Build settings
-baseurl: "/F2M3-IoT-Site:"
+baseurl: "/F2M3-IoT-Site"
 remote_theme: "pmarsceill/just-the-docs"
 
 #plugins:
