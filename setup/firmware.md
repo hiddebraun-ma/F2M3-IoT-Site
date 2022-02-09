@@ -1,6 +1,5 @@
 ---
 title: Firmware upgrading
-layout: page
 parent: Internet of Things
 nav_exclude: true
 ---

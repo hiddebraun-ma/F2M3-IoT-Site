@@ -1,10 +1,12 @@
 ---
 title: Opdrachten
-layout: page
 parent: Internet of Things
+has_children: true
 nav_order: 3
 ---
 
-# Start oefeningen en opdrachten 
+# {{ page.title }}
 
-[01 - Blink Led](01-blink-led){: .btn .btn-purple .fs-4 }
+Een aantal start opdrachten om mee te beginnen.
+
+{:toc}

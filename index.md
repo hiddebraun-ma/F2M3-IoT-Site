@@ -8,20 +8,20 @@ has_toc: false
 
 # Duurzaam Huis - {{ page.title }}
 
-Op deze website vind je korte video hulp en uitleg bij de lessen Internet of Thins (IoT) in de module Duurzaam Huis.
+Op deze website vind je korte video hulp en uitleg bij de lessen Internet of Things (IoT) in de module Duurzaam Huis.
 
 ---
 
 ## Wat is een NodeMCU?
 
-Korte uitleg over wat dat apparaatje nou precies is en wat je er mee kunt doen
+Korte uitleg over wat dat apparaatje (de NodeMCU of ESP8266) is en wat je er mee kunt doen.
 
 [Introductie NodeMCU](intro){: .btn .btn-blue }
 
 
 ## Setup - NodeMCU installeren
 
-Starten met je NodeMCU.
+De juiste software installeren en configureren zodat je aan de slag kunt.
 
 [Installatie en setup van de NodeMCU](setup){: .btn .btn-blue }
 

@@ -1,6 +1,5 @@
 ---
 title: Setup NodeMCU
-layout: page
 parent: Internet of Things
 nav_order: 2
 ---

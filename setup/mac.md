@@ -1,5 +1,4 @@
 ---
-layout: home
 title: Problemen Mac
 nav_exclude: true
 has_toc: false
