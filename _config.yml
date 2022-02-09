@@ -1,15 +1,19 @@
 title: Internet of Things (IoT)
-description: "Hulp bij het werken met de NodeMCU"
+description: "F2M3 - Backend programming - IoT"
 email: h.braun@ma-web.nl
 
 github_username:  hiddebraun-ma
 
 # Build settings
-theme: "just-the-docs"
+baseurl: "/F2M3-IoT-Site:"
 remote_theme: "pmarsceill/just-the-docs"
 
 #plugins:
 #  - jekyll-feed
+
+search_enabled: false
+heading_anchors: false
+
 
 exclude: [ "sources", "start.sh", ".idea" ]
 
